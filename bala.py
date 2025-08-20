@@ -1,2 +1,2 @@
 print("Bala")
-print("sandhiyA")
+print("sandhiya")
