@@ -1,2 +1,1 @@
 print("Bala")
-print("sandhiya")
